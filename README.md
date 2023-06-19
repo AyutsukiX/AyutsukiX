@@ -1,7 +1,6 @@
-oi, eu sou o João.
+- Python
+- C#
+- Java
 
-eu estou aprendendo python e c#
-
-sou interessado em desenvolvimento de software
-
-"meu compromisso é com o humor"
+backend
+programação orientada a objetos 
